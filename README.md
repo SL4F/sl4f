@@ -4,7 +4,7 @@ ___
 ### [ToxxicSB](https://toxxicsb.tk)
 ###### All in one Discord SelfBot with 200+ commands, frequent updates and much more!
 <p align="left"> 
-  <a href="https://toxxicsb.tk" target="_blank"><img src="https://user-images.githubusercontent.com/52598005/179434952-c0d0b395-5190-49b8-80eb-35c65c3d20c0.gif" alt="toxxicsb" width="300" height="125"/></a>
+  <a href="https://toxxicsb.tk" target="_blank"><img src="https://user-images.githubusercontent.com/52598005/179434952-c0d0b395-5190-49b8-80eb-35c65c3d20c0.gif" alt="toxxicsb" width="350" height="175"/></a>
 </p>
 
 ###### [GitHub](https://github.com/toxxicsb/toxxicsb) - [Sponsor](https://github.com/sponsors/SL4F)
@@ -12,7 +12,7 @@ ___
 ### [Heartless](https://hear.tless.one)
 ###### Code for the Heartless Discord Servers website!
 <p align="left"> 
-  <a href="https://hear.tless.one" target="_blank"><img src="https://hear.tless.one/partnersmall.gif" alt="heartless" width="300" height="125"/></a>
+  <a href="https://hear.tless.one" target="_blank"><img src="https://hear.tless.one/partnersmall.gif" alt="heartless" width="350" height="175"/></a>
 </p>
 
 ###### [GitHub](https://github.com/sl4f/heartless_site) - [Sponsor](https://github.com/sponsors/SL4F)
