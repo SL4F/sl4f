@@ -17,6 +17,14 @@ ___
 
 ###### [GitHub](https://github.com/sl4f/heartless) - [Sponsor](https://github.com/sponsors/SL4F)
 ___
+### [BetterDiscord](https://github.com/SL4F/betterdiscord)
+###### Collection of my betterdiscord plugins and themes!
+<p align="left"> 
+  <a href="https://github.com/SL4F/betterdiscord" target="_blank"><img src="https://betterdiscord.app/resources/branding/logo_large.svg" alt="vetterdiscord" width="350" height="175"/></a>
+</p>
+
+###### [GitHub](https://github.com/sl4f/betterdiscord) - [Sponsor](https://github.com/sponsors/SL4F)
+___
 ### Languages
 <p align="left"> 
   <a href="https://python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
