@@ -1,5 +1,5 @@
 # [SL4F](https://github.com/sponsors/SL4F) - [Sponsor](https://github.com/sponsors/SL4F) 
-###### [YouTube](https://youtube.com/sl44f) - [Twitch](https://twitch.tv/sl4f) - [Discord](https://dsc.gg/sadness) - [Website](https://hear.tless.one)
+###### [YouTube](https://youtube.com/sl44f) - [Twitch](https://twitch.tv/sl4f) - [Discord](https://dsc.gg/sadness) - [Website](https://heartless.uno)
 ___
 ### [ToxxicSB](https://toxxicsb.tk)
 ###### All in one Discord SelfBot with 200+ commands, frequent updates and much more!
@@ -9,10 +9,10 @@ ___
 
 ###### [GitHub](https://github.com/toxxicsb/toxxicsb) - [Sponsor](https://github.com/sponsors/SL4F)
 ___
-### [Heartless](https://hear.tless.one)
+### [Heartless](https://heartless.uno)
 ###### Code for the Heartless Discord Servers website!
 <p align="left"> 
-  <a href="https://hear.tless.one" target="_blank"><img src="https://hear.tless.one/partnersmall.gif" alt="heartless" width="350" height="175"/></a>
+  <a href="https://hear.tless.one" target="_blank"><img src="https://heartless.uno/partnersmall.gif" alt="heartless" width="350" height="175"/></a>
 </p>
 
 ###### [GitHub](https://github.com/sl4f/heartless) - [Sponsor](https://github.com/sponsors/SL4F)
