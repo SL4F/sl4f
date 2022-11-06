@@ -44,7 +44,7 @@ ___
 ###### Other additional info!
 <p align="left">
   <a href="https://discordapp.com/users/710329141903360011">
-    <img alt="SL4F's discord info" src='https://lanyard.cnrad.dev/api/710329141903360011?idleMessage=Currently%20doing%20nothing&animated=true&borderRadius=5px'></img>
+    <img alt="SL4F's discord stats" src="https://lanyard.cnrad.dev/api/710329141903360011?idleMessage=Currently%20doing%20nothing&animated=true&borderRadius=5px"></img>
   </a>
   <br><br>
   <a href="https://github.com/SL4F">
