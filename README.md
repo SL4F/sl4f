@@ -1,5 +1,53 @@
 # [SL4F](https://github.com/sponsors/SL4F) - [Sponsor](https://github.com/sponsors/SL4F) 
 ###### [YouTube](https://youtube.com/sl44f) - [Twitch](https://twitch.tv/sl4f) - [Discord](https://dsc.gg/sadness) - [Website](https://heartless.uno)
+
+
+___
+
+### Languages
+
+###### Coding Languages I know!
+
+<p align="left">
+
+  <a href="https://python.org" target="_blank">
+
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python icon" width="40" height="40"/>
+
+  </a>
+
+</p>
+___
+
+### Information
+
+###### Info about me!
+
+<p align="left">
+
+  <a href="https://discordapp.com/users/710329141903360011">
+
+    <img alt="SL4F's discord stats" src="https://lanyard.cnrad.dev/api/710329141903360011?idleMessage=Currently%20doing%20nothing&animated=true&borderRadius=5px"></img>
+
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/SL4F">
+
+    <img alt="SL4F's github stats" src="https://github-readme-stats.vercel.app/api?username=SL4F&show_icons=true&theme=discord_old_blurple&hide_border=true"/>
+
+  </a>
+
+</p>
+
+___
+
+### Contact
+
+###### Ways you can contact me!
+
+###### jay@heartless.uno | [Via Discord](https://discord.com/users/710329141903360011) :trollface:	
 ___
 ### [ToxxicSB](https://github.com/toxxicsb)
 ###### All in one Discord SelfBot with 200+ commands, frequent updates and much more!
@@ -28,31 +76,7 @@ ___
     <img src="https://betterdiscord.app/resources/branding/logo_large.svg" alt="betterdiscord" width="350" height="175"/>
   </a>
 <p>
-
 ###### [GitHub](https://github.com/sl4f/betterdiscord) - [Sponsor](https://github.com/sponsors/SL4F)
-___
-### Languages
-###### Coding Languages I know!
-<p align="left">
-  <a href="https://python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python icon" width="40" height="40"/>
-  </a>
-</p>
 
-___
-### Additional
-###### Other additional info!
-<p align="left">
-  <a href="https://discordapp.com/users/710329141903360011">
-    <img alt="SL4F's discord stats" src="https://lanyard.cnrad.dev/api/710329141903360011?idleMessage=Currently%20doing%20nothing&animated=true&borderRadius=5px"></img>
-  </a>
-  <br><br>
-  <a href="https://github.com/SL4F">
-    <img alt="SL4F's github stats" src="https://github-readme-stats.vercel.app/api?username=SL4F&show_icons=true&theme=discord_old_blurple&hide_border=true"/>
-  </a>
-</p>
 
-___
-### Contact
-###### Ways you can contact me!
-###### jay@heartless.uno | [Via Discord](https://discord.com/users/710329141903360011) :trollface:	
+
