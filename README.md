@@ -69,6 +69,14 @@ ___
 
 ###### [GitHub](https://github.com/SL4F/CPAutomation) - [Sponsor](https://github.com/sponsors/SL4F)
 ___
+### [Compiled Teleports](https://github.com/SL4F/CompiledKorepiTeleports)
+###### A bunch of Compiled Teleports to use with Korepi on an Anime Game.
+<p align="left"> 
+  <a href="https://github.com/SL4F/CompiledKorepiTeleports" target="_blank"><img src="https://raw.githubusercontent.com/Korepi/Korepi/main/assets/korepi_background.png" alt="Korepi" width="350" height="175"/></a>
+</p>
+
+###### [GitHub](https://github.com/SL4F/CompiledKorepiTeleports) - [Sponsor](https://github.com/sponsors/SL4F)
+___
 ### [Vencord](https://github.com/SL4F/vencord)
 ###### Collection of my vencord plugins and themes! 
 <p align="left">
